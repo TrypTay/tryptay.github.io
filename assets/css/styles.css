@@ -35,9 +35,11 @@ body {
   height: 50vh;
   position: -webkit-sticky;
   position: sticky;
-  top: 0; }
-  .sidebar .sidebar a:link, .sidebar a:visited {
-    color: #5f7470; }
+  top: 0;
+  line-height: 1.6; }
+
+.sidebar a:link, a:visited {
+  color: #5f7470; }
 
 .main-content {
   width: 60%;
