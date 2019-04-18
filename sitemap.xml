@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/authors/Tryp.html</loc>
-<lastmod>2019-04-15T02:31:19+02:00</lastmod>
+<lastmod>2019-04-18T19:58:46+02:00</lastmod>
 </url>
 <url>
 <loc>/2018/04/14/firstpost.html</loc>
@@ -13,13 +13,13 @@
 <lastmod>2018-04-15T00:00:00+02:00</lastmod>
 </url>
 <url>
-<loc>/Guides.html</loc>
-</url>
-<url>
-<loc>/blog.html</loc>
-</url>
-<url>
 <loc>/</loc>
+</url>
+<url>
+<loc>/news.html</loc>
+</url>
+<url>
+<loc>/resources.html</loc>
 </url>
 <url>
 <loc>/staff.html</loc>
