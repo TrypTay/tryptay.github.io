@@ -44,7 +44,7 @@ body {
 .main-content {
   width: 60%;
   min-width: 500px;
-  height: 120vh;
+  height: 150vh;
   line-height: 1.6; }
 
 .post a:link, a:visited {
@@ -57,6 +57,9 @@ body {
   border: 2px solid #889696;
   padding: 10px;
   box-shadow: 5px 6px; }
+
+.frame a:link, a:visited {
+  color: #5f7470; }
 
 h1 {
   font-size: 30px; }
